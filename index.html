@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-container">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlH1ByDnXX4-hjaSK-_auFJKzoWOgJil1pOA&s" alt="Company Logo" class="top-right-logo">
+
+    <!-- Sidebar with contacts -->
+    <div class="sidebar">
+        <h2>Support Panel</h2>
+        <ul id="contact-list">
+            <li class="active">Virtual Assistant</li>
+            <li>Schedule Meeting</li>
+        <li>Notify Me</li>
+        <li>Plan Task</li>
+        </ul>
+    </div>
+
+   <!-- Main Chat Area -->
+<div class="chat-area">
+    <div class="chat-header">Ｃｏｍｐａｎｙ Ａｓｓｉｓｔａｎｔ </div>
+    <ul id="messages" class="messages"></ul>
+    
+    <form id="chatForm" class="chat-form">
+        <input id="m" autocomplete="off" placeholder="Type your message..." />
+        <button>Send</button>
+    </form>
+
+    <!-- Company Logo at Bottom Right -->
+    <img src="https://cdn-icons-png.flaticon.com/128/6231/6231457.png" 
+         alt="bot" 
+         class="logo-bottom-right">
+</div>
+
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="client.js"></script>
+</body>
+</html>
