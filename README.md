@@ -1,4 +1,4 @@
-# MAX IO  Office Chat Bot   
+# MAX IO  Office Chat Bot 
 
 ## 📌 Project Overview
 **MAX IO** is a web-based chat bot application designed for company employees.  
@@ -46,13 +46,14 @@ Check out the live version of the website here:
 - **Others:** REST API, Bootstrap (for UI)
 
 ---
-> 🚨 **Important Notice – Project Privacy**
+## 🚨 **Important Notice – Project Privacy**
 > 
 > This project is part of **private work**.  
 > For security and confidentiality reasons, **the full server-side logic (`server.js`) is NOT publicly shared**.  
 > 
-> 🔒 Only the **frontend** is available in this repository for demonstration purposes.  
+> ## 🔒 Only the **frontend** is available in this repository for demonstration purposes.  
 > The backend is hosted securely on a private server and remains undisclosed.
+
 
 
 
