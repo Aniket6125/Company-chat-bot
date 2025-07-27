@@ -8,6 +8,17 @@ It enables employees to:
 - View salary details, tasks, and back-end employee data securely.
 
 ---
+## Structure 
+chat-bot/
+│── node_modules/
+│── public/
+│   ├── client.js
+│   ├── index.html
+│   └── style.css
+│── package-lock.json
+│── package.json
+│── server.js
+
 
 ## 🚀 Features
 - 🗨️ **Employee-to-Employee Chat**
