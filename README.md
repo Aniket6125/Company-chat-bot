@@ -19,12 +19,13 @@ chat-bot/
 │── package.json  # Node project config
 │── package-lock.json
 │── server.js     # Express server file
-│── README.md 
+ 
 ```
 --- 
 
 ## 🌐 Live Website
-Check out the live version of the website here: [MAX IO COMPANY APPLICATION]](https://aniket6125.github.io/MAX-IO-Company-Application/))
+Check out the live version of the website here: 
+[MAX IO COMPANY APPLICATION] --> https://aniket6125.github.io/MAX-IO-Company-Application/
 
 --- 
 
