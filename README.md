@@ -9,16 +9,7 @@ It enables employees to:
 
 ---
 ## Structure 
-chat-bot/
-│── node_modules/
-│── public/
-│   ├── client.js
-│   ├── index.html
-│   └── style.css
-│── package-lock.json
-│── package.json
-│── server.js
-
+<pre> ``` chat-bot/ │── node_modules/ # Dependencies (ignored in Git) │── public/ # Frontend files │ ├── client.js │ ├── index.html │ └── style.css │── package-lock.json │── package.json │── server.js ``` </pre>
 
 ## 🚀 Features
 - 🗨️ **Employee-to-Employee Chat**
