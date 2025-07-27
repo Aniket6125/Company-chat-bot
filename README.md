@@ -11,14 +11,15 @@ It enables employees to:
 ## 📂 Project Structure
 ```
 chat-bot/
+│── node_modules
 │── public/ # Frontend files
 │ ├── client.js
 │ ├── index.html
 │ └── style.css
-│── package.json # Node project config
+│── package.json  # Node project config
 │── package-lock.json
-│── server.js # Express server file
-│── README.md
+│── server.js     # Express server file
+│── README.md 
 ```
 --- 
 ## Features
