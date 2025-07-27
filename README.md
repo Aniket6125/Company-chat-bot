@@ -1,7 +1,5 @@
 # MAX IO  Office Chat Bot   
 
-# MAX IO – Office Chat Bot
-
 ## 📌 Project Overview
 **MAX IO** is a web-based chat bot application designed for company employees.  
 It enables employees to:
