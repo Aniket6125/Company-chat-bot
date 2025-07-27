@@ -22,6 +22,12 @@ chat-bot/
 │── README.md 
 ```
 --- 
+
+## 🌐 Live Website
+Check out the live version of the website here: [MAX IO COMPANY APPLICATION]](https://aniket6125.github.io/MAX-IO-Company-Application/))
+
+--- 
+
 ## Features
 - 🗨️ **Employee-to-Employee Chat**
 - 🗓️ **Schedule Meetings with Other Employees**
