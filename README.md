@@ -10,14 +10,18 @@ It enables employees to:
 ---
 ## Structure 
 chat-bot/
-│── node_modules/ # Dependencies (ignored in Git)
-│── public/ # Frontend files
-│ ├── client.js
-│ ├── index.html
-│ └── style.css
-│── package.json # Node project config
+│── node_modules/        # Dependencies (ignored in Git)
+│── public/              # Frontend files
+│   ├── client.js
+│   ├── index.html
+│   └── style.css
+│── package.json         # Node project config
 │── package-lock.json
+│── server.js
 │── README.md
+
+
+## Features
 - 🗨️ **Employee-to-Employee Chat**
 - 🗓️ **Schedule Meetings with Other Employees**
 - ✅ **View Tasks, Meetings, and Salary Information**
